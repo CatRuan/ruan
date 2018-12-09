@@ -1,0 +1,55 @@
+{
+  "moduleName": "view2",
+  "version": "0.0.1",
+  "desc": "页面2演示",
+  "listBody": {
+    "lvView2": [
+      {
+        "applicability": "all",
+        "type": "display",
+        "value": "cc.g",
+        "key": "",
+        "desc": "姓名"
+      },
+      {
+        "applicability": "all",
+        "type": "display",
+        "value": "11",
+        "key": "",
+        "desc": "年龄"
+      },
+      {
+        "applicability": "all",
+        "type": "display",
+        "value": "164cm",
+        "key": "",
+        "desc": "身高"
+      },
+      {
+        "applicability": "all",
+        "type": "display",
+        "value": "52kg",
+        "key": "",
+        "desc": "体重"
+      },
+      {
+        "applicability": "all",
+        "type": "display",
+        "value": "女",
+        "key": "",
+        "desc": "性别"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

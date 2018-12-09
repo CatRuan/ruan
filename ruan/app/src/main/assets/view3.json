@@ -1,0 +1,58 @@
+{
+  "moduleName": "view2",
+  "version": "0.0.1",
+  "desc": "页面2演示",
+  "listBody": {
+    "lvView3": [
+      {
+        "applicability": "all",
+        "value": "0",
+        "choice": [
+          {
+            "menum": "0",
+            "desc": "男"
+          },
+          {
+            "menum": "1",
+            "desc": "女"
+          }
+        ],
+        "key": "sexCode",
+        "type": "segment",
+        "desc": "性别"
+      },
+      {
+        "applicability": "all",
+        "type": "idExpireDay",
+        "value": "",
+        "key": "idValidDate",
+        "desc": "证件有效期"
+      },
+      {
+        "applicability": "all",
+        "type": "datePicker",
+        "value": "",
+        "key": "birthdateStr",
+        "desc": "出生日期"
+      },
+      {
+        "applicability": "all",
+        "type": "search",
+        "value": "中国",
+        "key": "countryCode",
+        "desc": "国籍"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llQuery"
+    android:layout_width="match_parent"
+    android:layout_height="82px"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="16px">
+
+    <TextView
+        android:id="@+id/tvDesc"
+        android:textSize="@dimen/text_m_size"
+        android:maxLines="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/tvSearched"
+        android:textSize="@dimen/text_m_size"
+        android:maxLines="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_width="30px"
+        android:layout_height="30px"
+        android:layout_marginLeft="40px"
+        android:background="@mipmap/order_icon_query" />
+
+</LinearLayout>
+

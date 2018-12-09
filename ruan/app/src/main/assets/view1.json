@@ -1,0 +1,62 @@
+{
+  "moduleName": "product",
+  "version": "0.0.1",
+  "desc": "页面1演示",
+  "listBody": {
+    "lvView1": [
+      {
+        "applicability": "all",
+        "type": "title",
+        "value": "",
+        "key": "title",
+        "desc": "输入框演示"
+      },
+      {
+        "applicability": "all",
+        "value": "",
+        "key": "name",
+        "type": "text",
+        "desc": "姓名"
+      },
+      {
+        "applicability": "all",
+        "value": "",
+        "key": "age",
+        "type": "text",
+        "desc": "年龄"
+      },
+      {
+        "applicability": "all",
+        "value": "",
+        "key": "age",
+        "type": "text",
+        "desc": "身高"
+      },
+      {
+        "applicability": "all",
+        "value": "",
+        "key": "age",
+        "type": "text",
+        "desc": "体重"
+      },
+      {
+        "applicability": "all",
+        "value": "",
+        "key": "age",
+        "type": "text",
+        "desc": "住址"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

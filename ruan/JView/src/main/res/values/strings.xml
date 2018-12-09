@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">移动展业</string>
+
+    <string name="order_next">下一步</string>
+    <string name="order_pre">上一步</string>
+    <string name="order_store">暂存</string>
+
+    <string name="order_required_field">*</string>
+    <string name="order_sex_male">男</string>
+    <string name="order_sex_female">女</string>
+
+    <string name="order_please_choose">请选择</string>
+    <string name="order_long_term">长期</string>
+
+    <string name="order_area_code">区号</string>
+    <string name="order_telephone">电话号码</string>
+    <string name="order_spacer">—</string>
+
+    <string name="search_profession_name">职业名称</string>
+    <string name="please_input">请输入</string>
+    <string name="search_go">搜索</string>
+
+    <string name="beneficiary_legal">法定</string>
+    <string name="beneficiary_add_new">新增受益人信息</string>
+    <string name="beneficiary_add">增加</string>
+    <string name="beneficiary_del">清空</string>
+
+</resources>

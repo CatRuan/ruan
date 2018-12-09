@@ -1,0 +1,51 @@
+{
+  "moduleName": "home",
+  "version": "0.0.1",
+  "desc": "主界面演示",
+  "listBody": {
+    "mainView": [
+      {
+        "applicability": "all",
+        "value": "icon1",
+        "key": "view1",
+        "type": "icon",
+        "desc": "界面演示1"
+      },
+      {
+        "applicability": "all",
+        "value": "icon2",
+        "key": "view2",
+        "type": "icon",
+        "desc": "界面演示2"
+      },
+      {
+        "applicability": "all",
+        "value": "icon3",
+        "key": "view3",
+        "type": "icon",
+        "desc": "界面演示3"
+      },
+      {
+        "applicability": "all",
+        "value": "icon4",
+        "key": "view4",
+        "type": "icon",
+        "desc": "界面演示4"
+      },
+      {
+        "applicability": "all",
+        "value": "icon5",
+        "key": "view5",
+        "type": "icon",
+        "desc": "界面演示5"
+      },
+      {
+        "applicability": "all",
+        "value": "icon6",
+        "key": "view6",
+        "type": "icon",
+        "desc": "界面演示6"
+      }
+    ]
+  }
+}
